@@ -1,0 +1,9 @@
+.idea
+*.classpath
+*.iws
+*.ipr
+*.out
+.class
+pom.xml
+.settings
+.project
